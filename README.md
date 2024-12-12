@@ -4,7 +4,7 @@
 - 🌱 In my freetime I like to learn about Web Development & Software Development
 - 💞️ I’m looking to collaborate on Data Science and Web App Projects 
 - 📫 You can reach me at sumaguearthur@outlook.com
-- ⚡ Fun fact: PUBG die hard 
+- ⚡ Fun fact: I like listening to Minecraft music when I code 
 
 <!---
 asumag4/asumag4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
