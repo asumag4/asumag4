@@ -26,16 +26,16 @@ about_me = {
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-#### Coding Performance
+### Coding Performance
 
-<a href="https://leetcode.com/u/asumag4/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a> <a href="https://www.hackerrank.com/profile/sumaguearthur">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a> <a href="https://www.codewars.com/users/avls3">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>
+<a href="https://leetcode.com/u/asumag4/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a> <a href="https://www.hackerrank.com/profile/sumaguearthur">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a> <a href="https://www.codewars.com/users/avls3">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a> <br>
 <span style='color:red'>_click the shields!_</span>
 
-#### Contact Me 👉👈
+### Contact Me 👉👈
 
 Always open to contributing to open-source, hobbyist and interesting projects. Let me know how I can help you!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asumag4&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asumag4&layout=compact)](https://asumag4.github.io/portfolioWebsite/)
 
 <!---
 asumag4/asumag4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
