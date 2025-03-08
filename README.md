@@ -28,7 +28,7 @@ about_me = {
 
 #### Coding Performance
 
-<a href="https://leetcode.com/u/asumag4/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a> <a href="https://www.hackerrank.com/profile/sumaguearthur">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a> <a href="https://www.codewars.com/users/avls3">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>
+<a href="https://leetcode.com/u/asumag4/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a> <a href="https://www.hackerrank.com/profile/sumaguearthur">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a> <a href="https://www.codewars.com/users/avls3">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a> <br>
 <span style='color:red'>_click the shields!_</span>
 
 #### Contact Me 👉👈
