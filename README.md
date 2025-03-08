@@ -35,7 +35,7 @@ about_me = {
 
 Always open to contributing to open-source, hobbyist and interesting projects. Let me know how I can help you!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asumag4&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asumag4&layout=compact)](https://asumag4.github.io/portfolioWebsite/)
 
 <!---
 asumag4/asumag4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
