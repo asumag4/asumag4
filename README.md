@@ -2,13 +2,13 @@
 
 ```javascript
 about_me = {
-    "👋" : "Hi, I’m @asumag4"
-    "👀" : "I’m interested in Data Science, Machine Learning, Software Development and Scientific Computing"
-    "📚" : "I’m currently in a Masters of Data Science and Analytics program"
-    "🌱" : "In my freetime I like to learn about Web Development & Software Development"
-    "💞️" : "I’m looking to collaborate on Data Science and Web App Projects :)"
-    "📫" : "You can reach me at sumaguearthur@outlook.com"
-    "⚡" : "Fun fact: I like listening to Minecraft music when I code"
+    "👋" : "Hi, I’m @asumag4",
+    "👀" : "I’m interested in Data Science, Machine Learning, Software Development and Scientific Computing",
+    "📚" : "I’m currently in a Masters of Data Science and Analytics program",
+    "🌱" : "In my freetime I like to learn about Web Development & Software Development",
+    "💞️" : "I’m looking to collaborate on Data Science and Web App Projects :)",
+    "📫" : "You can reach me at sumaguearthur@outlook.com",
+    "⚡" : "Fun fact: I like listening to Minecraft music when I code",
 }
 ```
 
