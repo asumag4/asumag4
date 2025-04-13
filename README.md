@@ -30,7 +30,7 @@ about_me = {
 
 
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=256" href="https://leetcode.com/u/asumag4/" width="100px"/> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" href="https://www.hackerrank.com/profile/sumaguearthur" href="https://www.hackerrank.com/profile/sumaguearthur" width="100px"> <img src="https://avatars.githubusercontent.com/u/5387632?s=280&v=4" href="https://www.codewars.com/users/avls3" width="100px">
+<a href="https://leetcode.com/u/asumag4/"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=256" width="100px"/> </a> <a href="https://www.hackerrank.com/profile/sumaguearthur"> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="100px"> </a> <a href="https://www.codewars.com/users/avls3"> <img src="https://avatars.githubusercontent.com/u/5387632?s=280&v=4" width="100px"> </a>
 
 ### Contact Me 👉👈
 
