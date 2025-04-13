@@ -28,8 +28,9 @@ about_me = {
 
 ### Coding Performance
 
-<a href="https://leetcode.com/u/asumag4/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a> <a href="https://www.hackerrank.com/profile/sumaguearthur">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a> <a href="https://www.codewars.com/users/avls3">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a> <br>
-<span style='color:red'>_click the shields!_</span>
+
+
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=256" href="https://leetcode.com/u/asumag4/" width="100px"/> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" href="https://www.hackerrank.com/profile/sumaguearthur" href="https://www.hackerrank.com/profile/sumaguearthur" width="100px"> <img src="https://avatars.githubusercontent.com/u/5387632?s=280&v=4" href="https://www.codewars.com/users/avls3" width="100px">
 
 ### Contact Me 👉👈
 
