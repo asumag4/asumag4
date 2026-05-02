@@ -12,7 +12,7 @@ about_me = {
     "⚡" : "Fun fact: I like listening to Minecraft music when I code",
 }
 ```
-
+---
 ### Stack
 
 #### Web Dev
@@ -28,12 +28,23 @@ about_me = {
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 
+---
 ### Coding Performance
 
 
 
 <a href="https://leetcode.com/u/asumag4/"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=256" width="100px"/> </a> <a href="https://www.hackerrank.com/profile/sumaguearthur"> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="100px"> </a> <a href="https://www.codewars.com/users/avls3"> <img src="https://avatars.githubusercontent.com/u/5387632?s=280&v=4" width="100px"> </a>
 
+#### DataLemur 
+<a>
+  <img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/datalemur/U9IYwrtOtYQsb07GXY6yE4triwD3" width="100px" alt="DataLemur"/>
+</a> 
+
+![Easy](https://img.shields.io/badge/Easy-21%2F85-4db86a?style=flat-square) 
+![Medium](https://img.shields.io/badge/Medium-7%2F104-f5a623?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-0%2F48-e05c5c?style=flat-square)
+
+---
 ### Contact Me 👉👈
 
 Always open to contributing to open-source, hobbyist and interesting projects. Let me know how I can help you!
